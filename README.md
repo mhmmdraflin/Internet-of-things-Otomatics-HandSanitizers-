@@ -5,6 +5,8 @@
 
 **Sanitizer Otomatic** adalah alat **dispenser hand sanitizer otomatis berbasis sensor inframerah dan servo motor**. Alat ini dikembangkan sebagai solusi untuk menjaga kebersihan tangan tanpa sentuhan, mengurangi risiko penyebaran kuman dan virus, serta memberikan kemudahan bagi pengguna di area publik.
 
+> 📘 **Catatan:** Proyek ini merupakan *proyek Ujian Akhir Semester (UAS)* dari mata kuliah **Internet of Things (IoT)**. Tujuannya adalah untuk menerapkan konsep sensor, aktuator, mikrokontroler, dan otomasi berbasis IoT dalam kehidupan nyata.
+
 ---
 
 ## 👥 Pengerjaan Kelompok
@@ -96,12 +98,13 @@ void loop() {
 
 ---
 
-## 🔌 Skema Rangkaian IoT dan tampilan proyek
+## 🔌 Skema Rangkaian IoT dan Tampilan Proyek
 
-Berikut adalah Hasil proyek:
+Berikut adalah hasil proyek:
 ![IOT](https://github.com/user-attachments/assets/451e331d-f33c-4d7f-8032-bb99cb3660a9)
 
 ### 🖼️ Gambar Skema
+
 ![skema](https://github.com/user-attachments/assets/4a1e3a7e-38dd-4bdd-b0f9-a5b61aeec4b0)
 
 *Catatan: Gambar hanya ilustrasi. Penempatan pin dapat disesuaikan.*
