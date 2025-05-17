@@ -1,7 +1,7 @@
 
 ---
 
-# 🧴 Sanitizer Otomatic – IoT Hand Sanitizer Otomatis
+# 🧴 HandSanitizer Otomatic – IoT Hand Sanitizer Otomatis
 
 **Sanitizer Otomatic** adalah alat **dispenser hand sanitizer otomatis berbasis sensor inframerah dan servo motor**. Alat ini dikembangkan sebagai solusi untuk menjaga kebersihan tangan tanpa sentuhan, mengurangi risiko penyebaran kuman dan virus, serta memberikan kemudahan bagi pengguna di area publik.
 
