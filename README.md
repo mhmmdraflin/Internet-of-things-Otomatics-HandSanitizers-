@@ -135,5 +135,3 @@ Berikut adalah Hasil proyek:
 * 🔗 LinkedIn: [linkedin.com/in/mhmmdraflin](https://www.linkedin.com/in/mhmmdraflin)
 
 ---
-
-Kalau kamu mau file ini langsung dalam format `.md`, aku bisa bantu hasilkan atau bantu upload ke GitHub. Mau?
